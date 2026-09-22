@@ -575,6 +575,7 @@ alt +shift + F
 INDEX Significa indice: é importantissimo que a primeira pagina do seu site seja index, pelo index vai enocntrar outras partes do seu site...
 
 HTML É UMA LINGUAGEM DE MARCAÇÃO SEMPRE DEVE TER REPRESENTAÇÃO DE INICIO E FINAL
+HTML É UMA LINGUAGEM DE MARCAÇÃO SEMPRE DEVE TER REPRESENTAÇÃO DE INICIO E FINAL
 
 Não é usado acentos em programação
 
@@ -595,4 +596,7 @@ getbootstrap
 *sp tech school
 https://w2g.tv/?r=hu2nqb6iqmanxb11x4
 *compartilhar codigo no git github (10)
+*bootrap
 nifkif-fycquS-tyrxe1
+
+natura - escolher empresas com ideias inovadora - breve historia da empresa - ideia inovadora 
