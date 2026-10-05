@@ -1,0 +1,31 @@
+#container {
+    background-color: blue;
+}
+
+.quadrados1 {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border: black 5px solid;
+    border-radius: 100%;
+    margin: 20px;
+    padding: 20px;
+} 
+
+.quadrados2 {
+    background-color: orange;
+    width: 200px;
+    height: 200px;
+    border: black 5px dashed;
+    border-radius: 25px;
+    margin: 30px;
+} 
+
+.quadrados3 {
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+    border: black 5px groove;
+    border-radius: 25px;
+    margin: 30px;
+} 

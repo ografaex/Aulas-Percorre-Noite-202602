@@ -1,0 +1,23 @@
+#card {
+    background-color: aliceblue;
+    border: 10px solid rgba(133, 169, 203, 0.49);
+    
+    width: 500px;
+     /* colocando padding: 50px é aplicado 50px de padding em todas as direções */
+    padding: 20px ;
+    padding-left: 90px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+#foto {
+    width: 400px;
+}
+
+p {
+    width: 400px;
+}
+
+h2 {
+    width: 400px;
+}
